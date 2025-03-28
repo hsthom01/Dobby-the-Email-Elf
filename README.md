@@ -8,8 +8,7 @@ Meet Dobby, a sprightly Tkinter-crafted elf who flits through Gmail fetching unr
 - **Tome-Taming**: Mines PDFs into ~10-15 chunks of lore with RAG, for replies with a scholarly twist.
 - **Cottage Charm**: A dark-themed Tkinter lair with stretchy panels and a chattering status bar.
 
-## Demo
-[Watch the demo video](demo/demo.mp4) (optional: upload to GitHub or link externally)
+
 
 ## Installation
 1. Clone the repo:
